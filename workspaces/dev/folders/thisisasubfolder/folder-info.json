@@ -1,0 +1,16 @@
+{
+  "id" : 5,
+  "name" : "ThisIsASubfOLDER",
+  "description" : " ",
+  "fileType" : "folder",
+  "projectLevel" : "/2",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "dataops",
+    "updatedBy" : "dataops",
+    "createdDate" : "2026-02-03T11:18:39Z",
+    "updatedDate" : "2026-04-02T12:19:55Z"
+  }
+}
