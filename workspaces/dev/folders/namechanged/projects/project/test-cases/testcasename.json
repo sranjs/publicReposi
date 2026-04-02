@@ -185,9 +185,9 @@
   "flowId" : 12649,
   "dmsProjectId" : 9,
   "syncInfo" : {
-    "syncId" : "FOLDER",
-    "timestamp" : "2026-04-02T13:48:43.189300500Z",
-    "syncType" : "FOLDER",
+    "syncId" : "PROJECT",
+    "timestamp" : "2026-04-02T13:48:55.068021600Z",
+    "syncType" : "PROJECT",
     "user" : "system"
   }
 }
